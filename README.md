@@ -3,7 +3,7 @@
  This is the course project for the Getting and Cleaning Data Coursera course.
  The R script, `run_analysis.R`, does the following:
  
- 1. Download the dataset if it does not already exist in the working directory
+ 1.Check the working directory(as I had downloaded the data earlier i did not put a code to download it) 
  2. Load the activity and feature info
  3. Loads both the training and test datasets, keeping only those columns which
     reflect a mean or standard deviation
